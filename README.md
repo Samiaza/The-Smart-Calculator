@@ -65,7 +65,7 @@ Android app. A tool where you can perform some interesting things.
 
 ## Лицензия
 
-Этот проект распространяется под лицензией [MIT](LICENSE).
+Этот проект распространяется под лицензией [MIT](https://github.com/Samiaza/samiaza/blob/main/LICENSE).
 
 ## Контакты
 
